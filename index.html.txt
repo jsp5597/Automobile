@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<body style="background-color:powderblue;">
+
+<h1 style="font-family:Calibri; text-align:center; font-size:250%;">Invention of the Automobile</h1>
+
+<h2 style="font-size:150%; font-family:Calibri;">How The Automobile Started</h2>
+
+<p style="font-size:100%; font-family:Times New Roman">The automobile was invented in the late 19th century as a self-propelled vehicle designed for passenger transportation. While several inventors around the world contributed to early automobile technology, the German engineer Karl Benz is widely credited with building the first practical automobile powered by an internal combustion engine. In 1885, Benz patented his Motorwagen, which is considered the first automobile that was commercially successful.</p>
+
+<p style="font-size:100%;font-family:Times New Roman">Benz's Motorwagen had three wheels, with the single front wheel providing steering. The engine was a single-cylinder four-stroke unit, with electric ignition provided by a battery. The Motorwagen's maximum speed was about 10 mph. Over the next two decades, automobile technology rapidly advanced, with innovations like the steering wheel and pneumatic tires helping transform early automobiles into far more practical and comfortable vehicles. By the early 1900s, mass production techniques pioneered by Henry Ford made automobiles affordable for the masses. Within a few decades, the automobile had revolutionized transportation and commerce around the world.</p>
+
+<h3 style="font-size:150%; font-family:Calibri;">Benefits of the Automobile</h3>
+
+<p style="font-size:100%; font-family:Times New Roman">The invention and mass adoption of automobiles has provided many benefits to society. Most significantly, automobiles have enabled greater mobility and freedom of movement for people. Cars allow people to conveniently travel longer distances, giving them access to more employment opportunities, commerce, and recreation. The automobile has also facilitated geographic expansion and the growth of suburbs.</p>
+
+<p style="font-size:100%; font-family:Times New Roman">In addition, automobiles have stimulated massive economic growth, creating new industries, jobs and driving commerce. Mass automobile production spurred the development of manufacturing practices and assembly line techniques that improved factory efficiency. Related industries like oil refining, road construction, insurance, and motels all benefited from the automobile revolution.</p>
+
+<p style="font-size:100%; font-family:Times New Roman">On an individual level, car ownership offers people independence, flexibility and convenience for travel and hauling cargo. For many, owning and driving cars is also associated with enjoyment, personal identity and status. The benefits and freedoms afforded by automobiles help explain their immense popularity in developed nations.</p>
+
+<img src="Automobiles.jpg" alt="Automobiles">
+
+<h4 style="font-size:150%; font-family:Calibri;">Harms of the Automobile</h4>
+
+<p style="font-size:100%; font-family:Times New Roman">However, the prominence of automobiles has also come with many downsides and unintended consequences. Perhaps most significantly, the automobile has negatively impacted human health and safety. Every year, over a million people die in car accidents globally. Exhaust emissions have led to air pollution and health problems for people living in urban areas. And auto-centric transportation systems have reduced physical activity for many, contributing to obesity.</p>
+
+<p style="font-size:100%; font-family:Times New Roman">In addition, widespread car usage has shaped landscapes and urban planning in ways many find undesirable. Cities and suburbs designed for automobiles often lack human scale, with roads and parking lots spreading farther than people can reasonably walk. This auto-dependent design has reduced open spaces and contact between people. Critics also argue automobiles have damaged social capital by reducing interactions between neighbors and dissolving community cohesion.</p>
+
+<p style="font-size:100%; font-family:Times New Roman">The dominance of cars has also led to issues like congestion and lengthy commutes, forcing people to spend significant time in their vehicles rather than with family or leisure. Additionally, many argue automobile production and usage contributes substantially to climate change and environmental harms. Calls have increased in recent decades for more sustainable urban planning and transportation focused less on private automobiles.</p>
+
+<img src="CarCrash.jpg" alt="CarCrash">
+
+<h5 style="font-size:150%; font-family:Calibri;">Conclusion</h5>
+
+<p style="font-size:100%; font-family:Times New Roman">In conclusion, the invention of the automobile brought tremendous benefits of mobility and commerce, but also significant harms related to health, safety, pollution, community design and the environment. The ideal transportation systems of the future may require balancing the benefits of automobiles with other modes like public transit, biking and walking.</p>
+
+<h6 style="font-size:150%; font-family:Calibri;">Video Link:</h6>
+<iframe width="700" height="500" src="https://player.hourone.ai/e2b88d68d0c74eb1805f16dd1bce0bbb">
+</iframe>
+
+</body style>
+</html>
